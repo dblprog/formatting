@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf_8"?>
+    <college_housing info="University of Chicago Dorms by Distance to Necessities">
+        <dorm_building>
+            <name>Max Palevsky</name>
+            <dist_to_lib>2 feet</dist_to_lib>
+            <dist_to_dining>2 feet</dist_to_dining>
+            <dist_to_quad>2 blocks</dist_to_quad>
+        </dorm_building>
+        <dorm_building>
+            <name>South </name>
+            <dist_to_lib>2 blocks</dist_to_lib>
+            <dist_to_dining>2 feet</dist_to_dining>
+            <dist_to_quad>3 blocks</dist_to_quad>
+        </dorm_building>
+        <dorm_building>
+                    <name>I House</name>
+            <dist_to_lib>5 blocks</dist_to_lib>
+            <dist_to_dining>7 blocks</dist_to_dining>
+            <dist_to_quad>6 blocks</dist_to_quad>
+        </dorm_building>
+        <dorm_building>
+            <name>Snitchcock</name>
+            <dist_to_lib>5 feet</dist_to_lib>
+             <dist_to_dining>30 feet</dist_to_dining>
+            <dist_to_quad>2 feet</dist_to_quad>
+        </dorm_building>    
+    </college_housing>
